@@ -1,0 +1,5 @@
+streamlit
+pyinstrument
+plotly
+pandas
+py-spy
